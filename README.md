@@ -46,5 +46,9 @@ Exercise Difficulty: Easy, Moderate, Difficult, Very Difficult   Moderate
 How did you feel about the exercise itself? (1 lowest, 10 highest—awesome way to assess coding ability)     7
 How do you feel about coding an exercise as a step in the interview process?  (1 lowest, 10 highest—awesome way to assess coding ability)  9
 What would you change in the exercise and/or process? see below:
-
+I'll add some new features like sign in as a seller will list all the projects the seller created, and 
+for each project click it will list all the bids so far. this needs to join the table seller project and bid
+another feature will add is for a buyer it also list the projects the buyer bids but only show the bids this 
+buyer bid for. this needs spring security to separate people's roles for different roles will come up with different
+authorization.
 
